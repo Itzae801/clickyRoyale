@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "archer.png"
+    },
+    {
+      "id": 2,
+      "image": "barb.png"    
+    },
+    {
+      "id": 3,
+      "image": "bomber.png"
+    },
+    {
+      "id": 4,
+      "image": "hogrider.png" 
+    },
+    {
+      "id": 5,
+      "image": "knight.png"
+    },
+    {
+      "id": 6,
+      "image": "pekka.png"
+    },
+    {
+      "id": 7,
+      "image": "prince.png"
+    },
+    {
+      "id": 8,
+      "image": "skeletons.png"
+    },
+    {
+      "id": 9,
+      "image": "valk.png"
+    },
+    {
+      "id": 10,
+      "image": "wiz.png"
+    },
+    {
+      "id": 11,
+      "image": "golem.jpg"
+    },
+    {
+      "id": 12,
+      "image": "mega.png"
+    }
+  ]
